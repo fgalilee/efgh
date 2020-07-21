@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "lodash": "1.x"
+    "lodash": "4.x"
   }
 }
